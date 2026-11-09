@@ -1,0 +1,8 @@
+torch
+scikit-learn
+neurokit2
+wfdb
+numpy
+matplotlib
+seaborn
+scipy
